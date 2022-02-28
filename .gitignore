@@ -1,0 +1,5 @@
+.venv
+filmes/scrapy.cfg
+filmes/filmes/spiders/__pycache__
+venv/
+__pycache__/
